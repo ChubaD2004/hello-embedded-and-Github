@@ -1,41 +1,23 @@
-# My Learning Repository for Git & GitHub
+## Learning Roadmap
+This repository is structured as a series of standalone programs, each covering a fundamental C++ concept.
 
-## Project Goal
-This repository serves as my personal sandbox for mastering the essential tools for software development: the Git version control system and the GitHub platform. The primary goal is not to write complex code, but to build a solid foundation in using these instruments professionally.
+### Module 1: C++ Basics
+- [x] `hello_world.cpp`: Environment setup, basic program structure, compilation, and execution.
+- [ ] `data_types.cpp`: Exploring primitive data types (`int`, `char`, `float`, `double`), their sizes (`sizeof`), and type modifiers (`short`, `long`, `unsigned`).
+- [ ] `operators.cpp`: Working with arithmetic, comparison, logical, and assignment operators.
+- [ ] `io_streams.cpp`: Managing user input (`std::cin`) and formatted output.
 
-This `README.md` file itself is my first practical exercise in using Markdown for documentation.
+### Module 2: Control Flow
+- [ ] `conditions.cpp`: `if`, `else if`, `else` statements and the ternary operator.
+- [ ] `loops.cpp`: `for`, `while`, and `do-while` loops. Using `break` and `continue`.
+- [ ] `switch_case.cpp`: Using the `switch` statement for multi-way branching.
 
----
+### Module 3: Core Concepts for Embedded
+- [ ] `functions.cpp`: Writing and using functions, passing arguments by value and by reference.
+- [ ] `arrays_and_strings.cpp`: Working with static arrays and C-style strings.
+- [ ] `pointers.cpp`: Understanding pointers, pointer arithmetic, and the relationship between pointers and arrays. **(Critical)**
+- [ ] `bitwise_operations.cpp`: Manipulating individual bits using `&`, `|`, `^`, `~`, `<<`, `>>`. **(Critical)**
 
-## Key Steps & Learnings So Far:
-This is a log of my progress in setting up my development environment.
-
-### 1. LinkedIn Profile Optimization
-- **Goal:** To create a professional profile focused on my career aspirations in Embedded Systems.
-- **Actions Taken:**
-  - Updated my headline and summary to reflect my goals.
-  - Rewrote my work experience to highlight relevant engineering skills.
-  - Curated my skills list to prioritize Embedded-related technologies.
-
-### 2. GitHub Account Setup
-- **Goal:** To create a space for my future portfolio.
-- **Actions Taken:**
-  - Registered a professional account.
-  - Created this first repository to understand the core concepts.
-
-### 3. Local Development Environment Setup
-- **Goal:** To prepare my local machine for professional development workflow.
-- **Actions Taken:**
-  - **Installed Git:** The core version control system.
-  - **Installed Visual Studio Code:** My primary code editor and Git client.
-  - **Cloned this repository:** Successfully connected my local machine to GitHub.
-
-## Next Steps
-My immediate plan is to:
-1.  Practice the basic Git workflow: `commit`, `push`, and `pull` using VS Code.
-2.  Start my first real hardware project using an Arduino/STM32 board.
-3.  Document the project's progress in a new repository.
-
----
-
-Feel free to follow my journey as I dive into the world of Embedded Systems!
+### Module 4: Advanced Topics
+- [ ] `structs.cpp`: Creating custom data structures.
+- [ ] `memory_management.cpp`: Understanding the stack and heap (`new`, `delete`).
