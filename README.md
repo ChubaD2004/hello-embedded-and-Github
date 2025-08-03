@@ -8,8 +8,8 @@ This repository is structured as a series of standalone programs, each covering 
 - [x] `io_streams.cpp`: Managing user input (`std::cin`) and formatted output.
 
 ### Module 2: Control Flow
-- [ ] `conditions.cpp`: `if`, `else if`, `else` statements and the ternary operator.
-- [ ] `loops.cpp`: `for`, `while`, and `do-while` loops. Using `break` and `continue`.
+- [x] `conditions.cpp`: `if`, `else if`, `else` statements and the ternary operator.
+- [x] `loops.cpp`: `for`, `while`, and `do-while` loops. Using `break` and `continue`.
 - [ ] `switch_case.cpp`: Using the `switch` statement for multi-way branching.
 
 ### Module 3: Core Concepts for Embedded
