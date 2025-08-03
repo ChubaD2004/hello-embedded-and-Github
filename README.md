@@ -4,8 +4,8 @@ This repository is structured as a series of standalone programs, each covering 
 ### Module 1: C++ Basics
 - [x] `hello_world.cpp`: Environment setup, basic program structure, compilation, and execution.
 - [x] `data_types.cpp`: Exploring primitive data types (`int`, `char`, `float`, `double`), their sizes (`sizeof`), and type modifiers (`short`, `long`, `unsigned`).
-- [ ] `operators.cpp`: Working with arithmetic, comparison, logical, and assignment operators.
-- [ ] `io_streams.cpp`: Managing user input (`std::cin`) and formatted output.
+- [x] `operators.cpp`: Working with arithmetic, comparison, logical, and assignment operators.
+- [x] `io_streams.cpp`: Managing user input (`std::cin`) and formatted output.
 
 ### Module 2: Control Flow
 - [ ] `conditions.cpp`: `if`, `else if`, `else` statements and the ternary operator.
