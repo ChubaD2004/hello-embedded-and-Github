@@ -10,11 +10,11 @@ This repository is structured as a series of standalone programs, each covering 
 ### Module 2: Control Flow
 - [x] `conditions.cpp`: `if`, `else if`, `else` statements and the ternary operator.
 - [x] `loops.cpp`: `for`, `while`, and `do-while` loops. Using `break` and `continue`.
-- [ ] `switch_case.cpp`: Using the `switch` statement for multi-way branching.
+- [x] `switch_case.cpp`: Using the `switch` statement for multi-way branching.
 
 ### Module 3: Core Concepts for Embedded
-- [ ] `functions.cpp`: Writing and using functions, passing arguments by value and by reference.
-- [ ] `arrays_and_strings.cpp`: Working with static arrays and C-style strings.
+- [x] `functions.cpp`: Writing and using functions, passing arguments by value and by reference.
+- [x] `arrays_and_strings.cpp`: Working with static arrays and C-style strings.
 - [ ] `pointers.cpp`: Understanding pointers, pointer arithmetic, and the relationship between pointers and arrays. **(Critical)**
 - [ ] `bitwise_operations.cpp`: Manipulating individual bits using `&`, `|`, `^`, `~`, `<<`, `>>`. **(Critical)**
 
