@@ -15,8 +15,8 @@ This repository is structured as a series of standalone programs, each covering 
 ### Module 3: Core Concepts for Embedded
 - [x] `functions.cpp`: Writing and using functions, passing arguments by value and by reference.
 - [x] `arrays_and_strings.cpp`: Working with static arrays and C-style strings.
-- [ ] `pointers.cpp`: Understanding pointers, pointer arithmetic, and the relationship between pointers and arrays. **(Critical)**
-- [ ] `bitwise_operations.cpp`: Manipulating individual bits using `&`, `|`, `^`, `~`, `<<`, `>>`. **(Critical)**
+- [x] `pointers.cpp`: Understanding pointers, pointer arithmetic, and the relationship between pointers and arrays. **(Critical)**
+- [x] `bitwise_operations.cpp`: Manipulating individual bits using `&`, `|`, `^`, `~`, `<<`, `>>`. **(Critical)**
 
 ### Module 4: Advanced Topics
 - [ ] `structs.cpp`: Creating custom data structures.
