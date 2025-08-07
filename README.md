@@ -19,5 +19,5 @@ This repository is structured as a series of standalone programs, each covering 
 - [x] `bitwise_operations.cpp`: Manipulating individual bits using `&`, `|`, `^`, `~`, `<<`, `>>`. **(Critical)**
 
 ### Module 4: Advanced Topics
-- [ ] `structs.cpp`: Creating custom data structures.
-- [ ] `memory_management.cpp`: Understanding the stack and heap (`new`, `delete`).
+- [x] `structs.cpp`: Creating custom data structures.
+- [x] `memory_management.cpp`: Understanding the stack and heap (`new`, `delete`).
